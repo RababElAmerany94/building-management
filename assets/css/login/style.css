@@ -1,0 +1,54 @@
+body {
+    background-color: #f9f9f9;
+}
+#wrap{
+    box-sizing: border-box;
+    width: 360px;
+    margin: auto;
+    margin-top: 50px; 
+    overflow: hidden;
+}
+div#form {
+    padding: 9px;
+    border-radius: 6px;
+    border: 1px solid #6b97e8;
+    margin-top: 8px;
+}
+#form input[type="text"], #form input[type="password"], #form button, #form select {
+    display: block;
+    box-sizing: border-box;
+    font-size: 16px;
+    padding: 16px 10px;
+    width: 100%;
+    margin-bottom: 9px;
+    border-radius: 3px;
+    border: 1px solid #6b97e8;
+}
+#form button {
+    margin-bottom: 0;
+    color: #fff;
+    background: #6190E8;
+    background: -webkit-linear-gradient(to top, #A7BFE8, #6190E8);
+    background: linear-gradient(to top, #A7BFE8, #6190E8);
+    background-image: -o-linear-gradient(top,orange,orangered);
+}
+#form button:hover{
+    background: #99b6e8;
+    font-weight: bold;
+
+}
+  #form button:active{
+    background: #6492e8;
+    font-weight: bold;
+    box-shadow: inset 0px 1px 3px 1px #3467c7;
+}
+
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}

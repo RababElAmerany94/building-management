@@ -1,0 +1,20 @@
+syntax: glob
+
+application/cache/ci_session*
+application/libraries/dompdf/lib/fonts/log.htm*
+
+application/config/database.php
+
+.idea
+.data
+.nginx
+.php-fpm
+*.sql
+CI_phpStorm.php
+docker-compose.yml
+
+*/.DS_Store
+.DS_Store
+_MACOSX
+
+VERSION
