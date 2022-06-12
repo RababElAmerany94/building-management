@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/RababElAmerany94/building-management">
-<img  alt="Rabab El Amerany Project" title="Rabab Project" src="https://github.com/RababElAmerany94/building-management/blob/main/src/assets/images/site.PNG" />
+<img  alt="Rabab El Amerany Project" title="Rabab Project" src="https://github.com/RababElAmerany94/building-management/blob/master/assets/images/site.PNG" />
 </a>
 </p>
 
