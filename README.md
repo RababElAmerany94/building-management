@@ -14,10 +14,7 @@ Building management and construction project management software coordinates bus
 In addition, technologies today allow sales staff to automate certain tasks.
 </p>
 
-
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [JQuery](https://jquery.com)
 * [Codeigniter](https://www.codeigniter.com)
@@ -30,18 +27,16 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
 * Download composer
   ```sh
   https://getcomposer.org/Composer-Setup.exe
@@ -49,20 +44,23 @@ This is an example of how to list things you need to use the software and how to
   
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+you can instruct your audience on installing and setting up your app
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/RababElAmerany94/building-management
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    composer install
    ```
-4. Create database.php in application/config
+3. Create database.php in application/config
    ```database.php
    example : 'database' => 'test', 'hostname' => 'localhost', 'username' => 'root' .....
+   ```
+4. Create database in your local
+   ```localhost
+   CREATE DATABASE
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
