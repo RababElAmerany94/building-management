@@ -62,7 +62,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 4. Create database.php in application/config
    ```database.php
-   'database' => 'test',
+   example : 'database' => 'test', 'hostname' => 'localhost', 'username' => 'root' .....
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -70,9 +70,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- CONTACT -->
 ## Contact
 
-Rabab El Amerany - [@email] - rab.el.amerany@gmail.com
+Rabab El Amerany - rab.el.amerany@gmail.com
 
-Project Link: [https://github.com/RababElAmerany94/building-managemen](https://github.com/RababElAmerany94/building-management)
+Project Link: [https://github.com/RababElAmerany94/building-management](https://github.com/RababElAmerany94/building-management)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
