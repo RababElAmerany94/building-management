@@ -58,7 +58,7 @@ you can instruct your audience on installing and setting up your app
    ```database.php
    example : 'database' => 'test', 'hostname' => 'localhost', 'username' => 'root' .....
    ```
-4. Create database in your local
+4. Create database in your local in datapase.sql in master repository
    ```localhost
    CREATE DATABASE
    ```
