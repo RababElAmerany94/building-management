@@ -34,11 +34,6 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-
-* Download composer
-  ```Composer
-  https://getcomposer.org/Composer-Setup.exe
-  ```
   
 * Download Xampp or WampServer ....
   ```PHP
@@ -52,10 +47,6 @@ You can instruct your audience on installing and setting up your app
 1. Clone the repo
    ```sh
    git clone https://github.com/RababElAmerany94/building-management
-   ```
-2. Install NPM packages
-   ```sh
-   composer install
    ```
 3. Create database.php in application/config
    ```database.php
