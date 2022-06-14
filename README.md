@@ -56,7 +56,11 @@ You can instruct your audience on installing and setting up your app
    ```localhost
    CREATE DATABASE
    ```
-
+5. Login : admin , password : admin
+   ```localhost
+   CREATE DATABASE
+   ```
+   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
