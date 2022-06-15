@@ -3,8 +3,8 @@
 # Building Management
 
 <p align="center">
-<a href="https://github.com/RababElAmerany94/building-management">
-<img  alt="Rabab El Amerany Project" title="Rabab Project" src="https://github.com/RababElAmerany94/building-management/blob/master/assets/images/site.PNG" />
+<a href="https://github.com/rabelamerany/building-management">
+<img  alt="Rabab El Amerany Project" title="Rabab Project" src="https://github.com/rabelamerany/building-management/blob/master/assets/images/site.PNG" />
 </a>
 </p>
 
@@ -46,7 +46,7 @@ You can instruct your audience on installing and setting up your app
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RababElAmerany94/building-management
+   git clone https://github.com/rabelamerany/building-management
    ```
 3. Create database.php in application/config
    ```database.php
@@ -68,7 +68,7 @@ You can instruct your audience on installing and setting up your app
 
 Rabab El Amerany - rab.el.amerany@gmail.com
 
-Project Link: [https://github.com/RababElAmerany94/building-management](https://github.com/RababElAmerany94/building-management)
+Project Link: [https://github.com/rabelamerany/building-management](https://github.com/rabelamerany/building-management)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
